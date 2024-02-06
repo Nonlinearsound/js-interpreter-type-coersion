@@ -1,0 +1,16 @@
+
+node_modules/.bin/acorn
+node_modules/.bin/acorn.cmd
+node_modules/.bin/acorn.ps1
+node_modules/.package-lock.json
+node_modules/acorn/bin/acorn
+node_modules/acorn/CHANGELOG.md
+node_modules/acorn/dist/acorn.d.mts
+node_modules/acorn/dist/acorn.d.ts
+node_modules/acorn/dist/acorn.js
+node_modules/acorn/dist/acorn.mjs
+node_modules/acorn/dist/bin.js
+node_modules/acorn/LICENSE
+node_modules/acorn/package.json
+node_modules/acorn/README.md
+package-lock.json
